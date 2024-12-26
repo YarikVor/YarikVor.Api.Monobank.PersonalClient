@@ -4,6 +4,12 @@
         <TargetFramework>net8.0</TargetFramework>
         <ImplicitUsings>enable</ImplicitUsings>
         <Nullable>enable</Nullable>
+        <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+        <Version>0.0.1</Version>
+        <Title>Unofficial MonoApi Personal Client</Title>
+        <Authors>YarikVor</Authors>
+        <Description>For .net 8</Description>
+        <RepositoryUrl>https://github.com/YarikVor/YarikVor.Api.Monobank.PersonalClient</RepositoryUrl>
     </PropertyGroup>
 
     <ItemGroup>
